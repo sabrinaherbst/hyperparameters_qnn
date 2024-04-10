@@ -1,6 +1,6 @@
 # On Optimizing Hyperparameters for Quantum Neural Networks
 * Authors: Sabrina Herbst, Vincenzo De Maio, Ivona Brandic
-* Affiliation: Vienna University of Technology
+* Affiliation: TU Wien, Vienna, Austria
 
 ## Run Experiments
 All experiments are executed using *Python 3.11.7*. 
